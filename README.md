@@ -1,2 +1,2 @@
 # my_projects
-AIB_03
+AI_Bootcamp_03
